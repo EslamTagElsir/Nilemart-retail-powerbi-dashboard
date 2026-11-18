@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,Brand,UnitCost,UnitPrice
+P001,"Samsung 55"" OLED TV",TVs,Samsung,8500,11999
+P002,"LG 65"" QLED TV",TVs,LG,12000,17499
+P003,"Sony 43"" Smart TV",TVs,Sony,5200,7299
+P004,"TCL 50"" 4K TV",TVs,TCL,6800,9499
+P005,"Hisense 32"" LED TV",TVs,Hisense,2800,3999
+P006,Samsung Galaxy S24,Smartphones,Samsung,14000,19999
+P007,iPhone 15 Pro,Smartphones,Apple,22000,31999
+P008,Xiaomi 13T,Smartphones,Xiaomi,9500,13499
+P009,OPPO Reno 11,Smartphones,OPPO,7200,9999
+P010,Realme 12 Pro,Smartphones,Realme,6000,8299
+P011,MacBook Air M3,Laptops,Apple,28000,39999
+P012,Dell XPS 15,Laptops,Dell,32000,44999
+P013,HP Spectre x360,Laptops,HP,38000,54999
+P014,Lenovo ThinkPad X1,Laptops,Lenovo,45000,64999
+P015,Asus ZenBook 14,Laptops,Asus,22000,31999
+P016,Samsung 1.5T Inverter AC,Air Conditioners,Samsung,5500,7999
+P017,LG Dual Cool AC 2T,Air Conditioners,LG,9000,12999
+P018,Midea Split 1T AC,Air Conditioners,Midea,4000,5999
+P019,Carrier 2.5T AC,Air Conditioners,Carrier,11000,15999
+P020,Gree 1T Window AC,Air Conditioners,Gree,3200,4799
+P021,Samsung 7kg Washer,Washing Machines,Samsung,6500,9499
+P022,LG 9kg Front Load,Washing Machines,LG,9500,13999
+P023,Whirlpool 8kg Washer,Washing Machines,Whirlpool,7000,9999
+P024,Beko 6kg Top Load,Washing Machines,Beko,4500,6499
+P025,Ariston 10kg Washer,Washing Machines,Ariston,11000,15999
+P026,Bosch Side-by-Side Fridge,Refrigerators,Bosch,18000,25999
+P027,Samsung Twin Cooling Fridge,Refrigerators,Samsung,22000,31999
+P028,LG InstaView Fridge,Refrigerators,LG,25000,36999
+P029,Hisense 2-Door Fridge,Refrigerators,Hisense,9000,12999
+P030,Unionaire No-Frost Fridge,Refrigerators,Unionaire,7500,10999
+P031,Tefal Air Fryer XL,Small Appliances,Tefal,1200,1799
+P032,Phillips Blender 2L,Small Appliances,Philips,800,1199
+P033,Braun Coffee Machine,Small Appliances,Braun,1500,2299
+P034,Kenwood Stand Mixer,Small Appliances,Kenwood,2200,3199
+P035,Moulinex Microwave,Small Appliances,Moulinex,950,1399
+P036,Sony WH-1000XM5 Headphones,Audio,Sony,5500,7999
+P037,JBL Flip 6 Speaker,Audio,JBL,1800,2599
+P038,Apple AirPods Pro,Audio,Apple,7200,10499
+P039,Samsung Galaxy Buds2,Audio,Samsung,2800,3999
+P040,Anker Soundcore Q45,Audio,Anker,1100,1599

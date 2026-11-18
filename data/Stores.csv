@@ -1,0 +1,11 @@
+StoreID,StoreName,Region,StoreType,SquareMeters
+S01,Cairo Festival City,Cairo,Flagship,2500
+S02,Maadi Grand Mall,Cairo,Standard,1200
+S03,Alexandria City Centre,Alexandria,Flagship,2200
+S04,Giza Stars Mall,Giza,Standard,1400
+S05,Mansoura Mall,Mansoura,Standard,1100
+S06,Port Said Outlet,Port Said,Outlet,900
+S07,Tanta City Mall,Tanta,Standard,1000
+S08,Ismailia Square,Ismailia,Standard,950
+S09,Suez Mall,Suez,Outlet,880
+S10,Luxor Center,Luxor,Standard,1050
