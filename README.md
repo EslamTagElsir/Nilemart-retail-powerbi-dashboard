@@ -1,8 +1,35 @@
-# NileMart Electronics: Retail Business Intelligence Dashboard
+<div align="center">
 
-A 5-page Power BI report for a 10-store electronics retail chain. It covers revenue, profit, customers, stores and products over three years (2022 to 2024).
+<img src="assets/readme-hero.svg" alt="NileMart Electronics dashboard banner" width="100%">
 
-![Overview page](screenshots/01-overview.jpg)
+# NileMart Electronics
+
+**Retail business intelligence · Power BI · 2022–2024**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Report-F2C811?logo=powerbi&logoColor=black) ![Pages](https://img.shields.io/badge/Pages-5-2563EB) ![DAX](https://img.shields.io/badge/DAX-22%20measures-0F766E) ![Data](https://img.shields.io/badge/Data-Synthetic-64748B)
+
+</div>
+
+---
+
+## Dashboard walkthrough
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/01-overview.jpg" alt="NileMart executive overview" width="100%"><br><sub><b>01 · Executive overview</b> — headline KPIs, revenue trends, category mix</sub></td>
+<td width="50%"><img src="screenshots/02-customer-insights.jpg" alt="NileMart customer insights" width="100%"><br><sub><b>02 · Customer insights</b> — segments, demographics, payment mix</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/03-sales-performance.jpg" alt="NileMart sales performance" width="100%"><br><sub><b>03 · Sales performance</b> — profit, cost, discounts, time trends</sub></td>
+<td width="50%"><img src="screenshots/04-regional-and-store-analysis.jpg" alt="NileMart regional and store analysis" width="100%"><br><sub><b>04 · Regional and store analysis</b> — region and store comparisons</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/05-product-detail-drillthrough.jpg" alt="NileMart product drill-through" width="100%"><br><sub><b>05 · Product detail</b> — drill-through product analysis</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+---
 
 ## Headline numbers (full period)
 
