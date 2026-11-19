@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">NileMart Electronics — project banner</title><desc id="desc">A five-page Power BI view of revenue, profit, stores, products, and customers.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#18263A"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8" stop-opacity=".28"/><stop offset="1" stop-color="#FBBF24" stop-opacity=".04"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#CBD5E1" stroke-opacity=".07"/></pattern></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/><rect width="1280" height="360" rx="24" fill="url(#grid)"/><ellipse cx="370" cy="60" rx="600" ry="280" fill="url(#glow)"/>
+<rect x="0" y="0" width="9" height="360" rx="4" fill="#38BDF8"/>
+<rect x="88" y="48" width="12" height="12" rx="6" fill="#FBBF24"/><text x="114" y="60" fill="#FBBF24" font-size="16" font-family="Inter,Segoe UI,Arial" font-weight="700" letter-spacing="2">RETAIL BUSINESS INTELLIGENCE</text>
+<text x="88" y="145" fill="#F8FAFC" font-size="58" font-weight="750" font-family="Inter,Segoe UI,Arial">NileMart Electronics</text>
+<text x="88" y="194" fill="#CBD5E1" font-size="21" font-family="Inter,Segoe UI,Arial">A five-page Power BI view of revenue, profit, stores, products, and customers.</text>
+<rect x="88" y="283" width="138" height="34" rx="17" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".18"/><text x="157" y="305" text-anchor="middle" fill="#E2E8F0" font-size="14" font-family="Inter,Segoe UI,Arial">Power BI</text><rect x="276" y="283" width="138" height="34" rx="17" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".18"/><text x="345" y="305" text-anchor="middle" fill="#E2E8F0" font-size="14" font-family="Inter,Segoe UI,Arial">Star Schema</text><rect x="464" y="283" width="165" height="34" rx="17" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".18"/><text x="546.5" y="305" text-anchor="middle" fill="#E2E8F0" font-size="14" font-family="Inter,Segoe UI,Arial">22 DAX Measures</text><g transform="translate(930 62)">
+      <rect x="0" y="0" width="300" height="224" rx="22" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+      <path d="M38 177 H264 M38 48 V177" stroke="#CBD5E1" stroke-opacity=".45" stroke-width="2"/>
+      <rect x="62" y="120" width="34" height="57" rx="7" fill="#38BDF8" opacity=".8"/>
+      <rect x="117" y="92" width="34" height="85" rx="7" fill="#FBBF24" opacity=".9"/>
+      <rect x="172" y="64" width="34" height="113" rx="7" fill="#38BDF8" opacity=".95"/>
+      <rect x="227" y="38" width="20" height="139" rx="7" fill="#FBBF24"/>
+      <path d="M62 95 L134 70 L189 46 L237 25" stroke="#F8FAFC" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <circle cx="237" cy="25" r="6" fill="#F8FAFC"/>
+      <text x="150" y="207" text-anchor="middle" fill="#E2E8F0" font-size="15" font-family="Inter,Segoe UI,Arial">INSIGHT → ACTION</text>
+    </g>
+</svg>
